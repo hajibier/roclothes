@@ -558,8 +558,8 @@ function RoClothes(Player)
 			TopHP = "",
 			BottomHP = "",
 			HPClothes = {
-				Shirt = "",
-				Pants = ""
+				Shirt = "13865264100",
+				Pants = "9965589249"
 			},
 			DamageSFX = "",
 			Volume = 1,
